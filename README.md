@@ -6,10 +6,13 @@ It contains the home page that has a navbar, a search bar,three brands introduct
 **For backend:**
 
 *We connected mongodb database to our backend and created schemas that defined how data is organized within the database for the 3 database collections: categories, products, and users.
+<br />
 *We created routes to handle requests based on their different URLs and HTTP request methods. 
+<br />
 *We used api methods to handle requests and retrieve data from database and send the response back to the frontend.
+<br />
 *We seperated regular user from admin user.
-
+<br />
 **For Frontend:**
 
 *We created functions to make GET,PUT,POST,DELETE requests to the API on the backend.
