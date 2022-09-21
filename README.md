@@ -13,12 +13,18 @@ It contains the home page that has a navbar, a search bar,three brands introduct
 <br />
 *We seperated regular user from admin user.
 <br />
-**For Frontend:**
 
+**For Frontend:**
+<br />
 *We created functions to make GET,PUT,POST,DELETE requests to the API on the backend.
+<br />
 *On the home page, we had a search bar to filter needed products. We used styled-component library to displaying the three brands.
+<br />
 *We used Bootstrap library to create navbar, cards for products, cards for information in user dashboard.
+<br />
 *We created separate user interfaces for different roles in our website: the admin and the regular user. In the user dashboard page, the admin can add new brands and products to the website and manage the products while the regular users don’t have access to those data and can only see their own shopping cart info. We put the information that is entered by the admin in the database using frontend api methods to send and request data to the backend.
+<br />
 *We used local storage to store products in the cart and calculate the total price for checkout.
+<br />
 *We made the website responsive on different sized displays.
 
