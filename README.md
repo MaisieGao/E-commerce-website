@@ -1,7 +1,7 @@
 Me and my teammates built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
 
 The website we built is a e-commerce shopping website. 
-It contains the home page that has a navbar, a search bar,three brands introduction, product best sellers and website contact info, the explore page that lists all the products the website have and can filter the product by brands or prices, the shopping cart page with the total amount calculated, the signin/signup page, user/admin dashboard pages depends on the users' indentities, create and manage products/brands pages for admin users, and a detail product page with a list of related products.
+It contains the home page that has a navbar, a search bar, brands introductions, best selling products and website contact info, the explore page that lists all the products the website have and can filter the product by brands or prices, the shopping cart page with the total amount calculated, the signin/signup page, user/admin dashboard pages depends on the users' indentities, create and manage products/brands pages for admin users, and a detail product page with a list of related products.
 
 **For backend:**
 
