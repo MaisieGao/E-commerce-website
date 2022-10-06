@@ -1,3 +1,8 @@
+**Home Page**
+
+<img width="1469" alt="Screen Shot 2022-10-05 at 5 40 46 PM" src="https://user-images.githubusercontent.com/90473308/194188669-0913fdf8-742f-4459-a6cd-40994951ea21.png">
+
+<hr/>
 Me and my teammates built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
 
 The website we built is a e-commerce shopping website. 
