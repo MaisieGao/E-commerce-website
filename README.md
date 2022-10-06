@@ -2,6 +2,14 @@
 
 <img width="1469" alt="Screen Shot 2022-10-05 at 5 40 46 PM" src="https://user-images.githubusercontent.com/90473308/194188669-0913fdf8-742f-4459-a6cd-40994951ea21.png">
 
+**Explore Page**
+
+<img width="1470" alt="Screen Shot 2022-10-05 at 5 42 26 PM" src="https://user-images.githubusercontent.com/90473308/194188811-75a4288e-7b46-4fb0-934a-9eeab7ec553f.png">
+
+**Cart Page**
+
+<img width="1312" alt="Screen Shot 2022-10-05 at 5 43 04 PM" src="https://user-images.githubusercontent.com/90473308/194188843-9f5a07a4-7dac-46e6-9396-d316df56e1c6.png">
+
 <hr/>
 Me and my teammates built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
 
